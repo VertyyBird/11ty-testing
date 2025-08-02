@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "dev": "npx @11ty/eleventy --input=_source --output=_output --serve",
+    "build": "npx @11ty/eleventy --input=_source --output=_output"
+  }
+}
